@@ -1,3 +1,12 @@
+```markdown
+## Quick Start
+
+To reproduce the experiments with default settings, simply run:
+
+```bash
+python main.py
+
+
 ## Citation
 
 If you find this work useful for your research, please consider citing our paper:
