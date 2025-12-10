@@ -1,9 +1,7 @@
-```markdown
 ## Quick Start
 
 To reproduce the experiments with default settings, simply run:
 
-```bash
 python main.py
 
 
