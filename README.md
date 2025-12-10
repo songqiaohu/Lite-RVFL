@@ -6,6 +6,7 @@ To reproduce the experiments with default settings, simply run:
 python main.py
 
 
+
 If you find this work useful for your research, please consider citing our paper:
 @article{hu2025lite,
   title={Lite-RVFL: A Lightweight Random Vector Functional-Link Neural Network for Learning Under Concept Drift},
