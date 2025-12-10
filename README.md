@@ -5,7 +5,7 @@ To reproduce the experiments with default settings, simply run:
 ```bash
 python main.py
 
-
+```
 
 If you find this work useful for your research, please consider citing our paper:
 @article{hu2025lite,
